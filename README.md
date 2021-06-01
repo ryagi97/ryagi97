@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ryan Agius, a masters student at the University of Malta
-- 👀 I’m interested in electronics engineering and machine learning, mostly in signal processing and computer vision
+- 👀 I’m interested in machine learning and electronics, particularly in signal processing and computer vision
 - 📫 reach me on my website [ryanagius.com](https://www.ryanagius.com/) 
 
 <!---
